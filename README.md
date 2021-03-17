@@ -1,8 +1,7 @@
 
 
-<h1 align="center">
-     ♻️ <a href="#" alt="site do ecoleta"> FinAPI </a>
-</h1>
+FinAPI 
+
 
 <h3 align="center">
     Sistema simples para uma API de transações financeiras.
@@ -164,7 +163,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/renato-d-schneider-b6555b1a0/)
+Feito com ❤️ por Renato D. Schneider 👋🏽 [Entre em contato!](https://www.linkedin.com/in/renato-d-schneider-b6555b1a0/)
 
 ---
 
