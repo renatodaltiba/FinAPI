@@ -101,9 +101,7 @@ $ Yarn dev
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 
 ```
-<p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
+
 
 
 ## 🛠 Tecnologias
@@ -111,8 +109,7 @@ $ Yarn dev
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
-
+#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server**  ([NodeJS](https://nodejs.org/en/)  
 -   **[Express](https://expressjs.com/)**
 
 > Veja o arquivo  [package.json](https://github.com/renatodaltiba/FinAPI/blob/main/package.json)
