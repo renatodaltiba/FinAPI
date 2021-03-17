@@ -150,7 +150,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://www.linkedin.com/in/renato-d-schneider-b6555b1a0/">
- <img style="border-radius: 50%;" src="hhttps://avatars.githubusercontent.com/u/54185507?s=400&u=a98e4f77fb05be983951afb73fa3fc6a9c7edf40&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54185507?s=400&u=a98e4f77fb05be983951afb73fa3fc6a9c7edf40&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Renato D. Schneider</b></sub></a> <a href="#" title="">🚀</a>
  <br />
