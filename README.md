@@ -48,31 +48,22 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️ FinAPI - é um sistema(BACKEND) onde a API tem por objetivo simular transações financeiras de uma empresa financeira
 
-
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto desenvolvido durante a **Ignite** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/).
+O Ignite é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica somente para participantes do bootcamp
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
-  - [x] uma imagem do ponto de coleta
-  - [x] nome da entidade, email e whatsapp
-  - [x] e o endereço para que ele possa aparecer no mapa
-  - [x] além de selecionar um ou mais ítens de coleta: 
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
-
-- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
-  - [x] navegar pelo mapa para ver as instituições cadastradas
-  - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
+- [x] Úsuarios podem se cadastrar
+  - [x] O mesmo pode fazer um deposito;
+  - [x] O mesmo pode fazer uma retirada;
+  - [x] Pode solicitar uma atualização cadastral;
+  - [x] Pode solicitar a exclusão da conta;
+  - [x] Pode solicitar um extrato de suas movimentações dentro da conta;
+   
 
 ---
 
