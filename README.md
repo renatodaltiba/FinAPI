@@ -1,6 +1,6 @@
 
 
-FinAPI 
+<h1 align="center">FinAPI</h1> 
 
 
 <h3 align="center">
